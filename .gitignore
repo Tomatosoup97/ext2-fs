@@ -1,0 +1,23 @@
+cmake-build-debug
+
+# Object files
+*.o
+
+# Libraries, shared objects
+*.so
+*.lib
+*.a
+*.la
+
+# Precompiled header
+*.gch
+
+# Valgrind files
+vgcore*
+
+# Binaries
+ext2ro
+ext2test
+
+*.img*
+
